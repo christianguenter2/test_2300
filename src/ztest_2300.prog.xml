@@ -36,8 +36,8 @@
        <TYPE>TEMPLATE</TYPE>
        <NAME>GS_0100-FIELDNAME</NAME>
        <TEXT>______________________________</TEXT>
-       <LINE>002</LINE>
-       <COLUMN>027</COLUMN>
+       <LINE>004</LINE>
+       <COLUMN>018</COLUMN>
        <LENGTH>030</LENGTH>
        <VISLENGTH>030</VISLENGTH>
        <HEIGHT>001</HEIGHT>
@@ -51,8 +51,8 @@
        <TYPE>TEMPLATE</TYPE>
        <NAME>GS_0100-INDEXID</NAME>
        <TEXT>___</TEXT>
-       <LINE>003</LINE>
-       <COLUMN>027</COLUMN>
+       <LINE>005</LINE>
+       <COLUMN>018</COLUMN>
        <LENGTH>003</LENGTH>
        <VISLENGTH>003</VISLENGTH>
        <HEIGHT>001</HEIGHT>
@@ -66,8 +66,8 @@
        <TYPE>TEXT</TYPE>
        <NAME>ZTEST_2300-FIELDNAME</NAME>
        <TEXT>Field_Name_____</TEXT>
-       <LINE>004</LINE>
-       <COLUMN>011</COLUMN>
+       <LINE>007</LINE>
+       <COLUMN>006</COLUMN>
        <LENGTH>015</LENGTH>
        <VISLENGTH>015</VISLENGTH>
        <HEIGHT>001</HEIGHT>
@@ -83,14 +83,16 @@
        <TYPE>TEMPLATE</TYPE>
        <NAME>ZTEST_2300-FIELDNAME</NAME>
        <TEXT>______________________________</TEXT>
-       <LINE>004</LINE>
-       <COLUMN>027</COLUMN>
+       <LINE>007</LINE>
+       <COLUMN>022</COLUMN>
        <LENGTH>030</LENGTH>
        <VISLENGTH>030</VISLENGTH>
        <HEIGHT>001</HEIGHT>
        <FORMAT>CHAR</FORMAT>
        <FROM_DICT>X</FROM_DICT>
        <PARAM_ID>DFD</PARAM_ID>
+       <SET_PARAM>/</SET_PARAM>
+       <GET_PARAM>/</GET_PARAM>
        <FOREIGNKEY>X</FOREIGNKEY>
        <INPUT_FLD>X</INPUT_FLD>
        <OUTPUT_FLD>X</OUTPUT_FLD>
@@ -101,8 +103,8 @@
        <TYPE>TEXT</TYPE>
        <NAME>ZTEST_2300-INDEXID</NAME>
        <TEXT>Index_ID______</TEXT>
-       <LINE>005</LINE>
-       <COLUMN>011</COLUMN>
+       <LINE>008</LINE>
+       <COLUMN>006</COLUMN>
        <LENGTH>014</LENGTH>
        <VISLENGTH>014</VISLENGTH>
        <HEIGHT>001</HEIGHT>
@@ -118,14 +120,16 @@
        <TYPE>TEMPLATE</TYPE>
        <NAME>ZTEST_2300-INDEXID</NAME>
        <TEXT>___</TEXT>
-       <LINE>005</LINE>
-       <COLUMN>027</COLUMN>
+       <LINE>008</LINE>
+       <COLUMN>022</COLUMN>
        <LENGTH>003</LENGTH>
        <VISLENGTH>003</VISLENGTH>
        <HEIGHT>001</HEIGHT>
        <FORMAT>CHAR</FORMAT>
        <FROM_DICT>X</FROM_DICT>
        <PARAM_ID>DIX</PARAM_ID>
+       <SET_PARAM>/</SET_PARAM>
+       <GET_PARAM>/</GET_PARAM>
        <FOREIGNKEY>X</FOREIGNKEY>
        <INPUT_FLD>X</INPUT_FLD>
        <OUTPUT_FLD>X</OUTPUT_FLD>
